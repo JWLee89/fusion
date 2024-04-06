@@ -12,7 +12,7 @@ repos:
       - id: check-yaml
       - id: check-toml
       # We will be using single-quote strings.
-      - id: double-quote-string-fixer
+      # - id: double-quote-string-fixer
       - id: check-executables-have-shebangs
       - id: check-case-conflict
       - id: check-added-large-files
